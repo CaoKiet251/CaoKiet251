@@ -9,7 +9,7 @@
 
 </div>
 
-## 🧑‍💻 Frontend Developer | Full-Stack Developer
+## 🧑‍💻 Full-Stack Developer
 Passionate about web development, I specialize in Frontend solutions that deliver great user experiences.
 
 ### 💠 **What I Do**
